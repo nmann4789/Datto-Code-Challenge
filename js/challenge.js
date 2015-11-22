@@ -57,7 +57,7 @@ function calculate(originalString){
     				if(repeatCount>MaxCount){
     					MaxCountLetter = curWord[j];
     					MaxCount = repeatCount;
-    					repeatCount = 1;
+                    repeatCount = 1;
     				}
     			}
     		}
