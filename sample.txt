@@ -1,0 +1,6 @@
+Thiis iis a saaample text.
+
+It wiiill check all lines of any .txt
+file seleced from the browser.
+
+In this example the word 's***mple' on the first line will be returned.
